@@ -10,7 +10,7 @@
         "laravel/socialite": "^2.0",
         "mccool/laravel-auto-presenter": "~3.1",
         "michelf/php-markdown": "1.4.*",
-        "nickcernis/html-to-markdown": "2.1.*",
+        "league/html-to-markdown": "2.1.*",
         "misd/linkify": "1.1.*",
         "hashids/hashids": "1.0.*",
         "mews/purifier": "~2.0",
